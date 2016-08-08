@@ -1,0 +1,4 @@
+# Xaurum
+
+
+Xaurum is unit of value on the golden blockchain, it represents an increasing amount of gold and can be exchanged for it by melting. Xaurum Golden Blockchain is a transparent ledger of accounts that accounts for the distribution of gold owned by the Xaurum CommonWealth, to provide an increasing base to Xaurum value. The CommonWealth is maintained by Auresco Institute physically and Guardian nodes digitally, both are designed to increase and distribute Xaurum’s value. Xaurum can be mined cooperatively and profitably on the Goldmine. Xaurum exercies cooperative control over the money supply, trough decentralized cooperative mining and minting. Xaurum is coined by exchanging the mined value for physical gold, stored as the CommonWealth gold reserves. It was first coined on a PoS Blackcoin blockchain, and has transitioned to Ethereum.
